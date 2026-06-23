@@ -3,7 +3,7 @@ User profile of syeda Nazish
 # 🌟 Hello World! I'm Syeda Nazish Adiba khateeb 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CS%20Student-blue?style=for-the-badge&logo=computer-science&logoColor=white" alt="CS Student" />
+  <img src="https://img.shields.io/badge/CS%20Student-blue?style=for-the-badge&logo=computer-science&logoColor=white" alt="Computer science and applications Student" />
   <img src="https://img.shields.io/badge/Tech%20Aspirant-ff69b4?style=for-the-badge&logo=rocket&logoColor=white" alt="Tech Aspirant" />
   <img src="https://img.shields.io/badge/Student%20Anchor-purple?style=for-the-badge&logo=microphone&logoColor=white" alt="Student Anchor" />
   <img src="https://img.shields.io/badge/ISP%2056-orange?style=for-the-badge&logo=star&logoColor=white" alt="ISP 56" />
