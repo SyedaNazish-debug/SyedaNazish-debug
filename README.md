@@ -1,6 +1,5 @@
-# SyedaNazish-debug-
-User profile of syeda Nazish 
-# 🌟 Hello World! I'm Syeda Nazish Adiba khateeb 👋
+User profile of Syeda 
+# Hello World! I'm Syeda.n.a.K
 
 <p align="center">
   <img src="https://img.shields.io/badge/CS%20Student-blue?style=for-the-badge&logo=computer-science&logoColor=white" alt="Computer science and applications Student" />
