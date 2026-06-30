@@ -62,7 +62,7 @@ Computer Science undergraduate with interests in **Artificial Intelligence**, **
 
 * **Bachelor of Computer Applications (BCA)**
     * 📈 **First Year Grades:** `73.5%`
-    * 📈 **Second Year Grades:** `82.46%`
+    * 📈 **Second Year Grades:** `86.80%`
 * **MAHA CET for BCA/BBA**
     * 📊 **Percentile:** `59.105`
     * 🏆 **State Level Rank:** `18419` | **All India Rank:** `20519`
